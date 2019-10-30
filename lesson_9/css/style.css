@@ -1,0 +1,48 @@
+.header, .advantages, .clients {
+	font-size: 24px;
+	margin: 50px auto;
+}
+.header span {
+	display: block;
+	line-height: 2;
+}
+.video {
+	margin-bottom: 25px;
+}
+.form {
+	border: 5px solid #472cc3;
+	padding: 25px 20px;
+}
+.form p {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+.form input {
+	margin-bottom: 12px;
+	font-size: 18px;
+	border-radius: 0;
+}
+.form-btn {
+	border-radius: 0;
+	background: #472cc3;
+	border-color: #472cc3;
+	line-height: 2.5;
+}
+.feature {
+	margin-top: 20px;
+}
+.feature-box p {
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.btn-adv {
+	margin-top: 50px;
+}
+.foto-box {
+	margin: 20px auto;
+}
+.last-client {
+	margin-bottom: 100px;
+}
