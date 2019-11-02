@@ -7,7 +7,7 @@
 
 [Урок 6.1](https://oemg.github.io/lesson_6/homework_1/ "") и [Урок 6.2](https://oemg.github.io/lesson_6/homework_2/ "") - Позиционирование в CSS
 
-[Урок 7](https://oemg.github.io/lesson_7/ "https://oemg.github.io/lesson_7/ "") - Верстка первого макета
+[Урок 7](https://oemg.github.io/lesson_7/ "") - Верстка первого макета
 
 [Урок 8](https://oemg.github.io/lesson_8/ "") - Ускорение верстки в разы
 
