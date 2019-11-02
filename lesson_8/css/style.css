@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	font-family: Arial;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight: 400;
+	margin-top: 10%;
+}
+.row {
+	display: flex;
+	margin-top: 10%;
+	align-items: flex-end;
+}
+p {
+	margin-top: 20px;
+	font-size: 18px;
+}
