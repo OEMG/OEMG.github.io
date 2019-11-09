@@ -23,3 +23,5 @@
 [Урок 11.1](https://raw.githubusercontent.com/OEMG/OEMG.github.io/master/lesson_11/homework_1.jpg "Сниппет первого стартового HTML шаблона") и [Урок 11.2](https://raw.githubusercontent.com/OEMG/OEMG.github.io/master/lesson_11/homework_2.jpg "Создай CSS сниппет, который развернет следующий код") - Сниппеты
 
 [Урок 13](https://oemg.github.io/lesson_13/ "Сверстать форму в стиле Pixel Perfect") -  Верстка Pixel Perfect
+
+[Урок 13. Практика 1](https://oemg.github.io/lesson_13_practice/ "Развернуть проект и сверстать шапку сайта") - Подготовка файлов. Верстка шапки сайта
